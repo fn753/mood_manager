@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = '3dbd2ad35ee14d828a66300875a42e8b';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://master.d36y2x9y261cv8.amplifyapp.com';
 
 const Spotify = {
     getAccessToken() {
