@@ -1,0 +1,10 @@
+#advice {
+    margin-top: 100px;
+}
+
+#playlists {
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 20px;
+    text-align: center;
+    border-radius: 2
+}
